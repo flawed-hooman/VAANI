@@ -1,2 +1,1 @@
-# VAANI
-The Digitized Speech Therapy App
+# VAANI - The Digitized Speech Therapy App
